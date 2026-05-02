@@ -1,4 +1,5 @@
 ---
+# trigger build
 include:
   # OLED display (built-in SSD1306 from corne shield)
   - board: nice_nano//zmk
